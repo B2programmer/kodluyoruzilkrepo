@@ -4,7 +4,7 @@
 ## Installation
 ### Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek)
 
-```h
+```cs
 git clone https://github.com/B2programmer/kodluyoruzilkrepo.git
 ``` 
 ## Usage
